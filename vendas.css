@@ -1,0 +1,2053 @@
+
+
+body {
+    background-color: black;
+}
+
+#logo {
+    margin-left: 43%;
+}
+
+#titulo {
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+#txt-1 {
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+#span-1{
+  background-color: rgba(70, 55, 128, 1);
+
+}
+
+#div-1 {
+    width: 80em;
+    height: 10em;
+    margin-left: 33em;
+}
+
+
+
+#txt-2 {
+    display: flex;
+    color: rgba(162, 127, 85, 1);
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2em;
+    margin-left: 10em;
+    margin-top: 3em;
+    height: 1em;
+    width: 20em;
+}
+
+#txt-3 {
+    margin-top: -2em;
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin-top: -0.5em;
+    margin-left: 20em;
+    width: 30em;
+}
+
+#txt-4 {
+    display: flex;
+    color: rgba(162, 127, 85, 1);
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2em;
+    margin-left: 10em;
+    margin-top: 2em;
+    height: 1em;
+    width: 20em;
+}
+
+#txt-5 {
+    margin-top: -2em;
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin-top: -0.5em;
+    margin-left: 20em;
+    width: 30em;
+
+}
+
+#txt-6 {
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin-top: -0.5em;
+    margin-left: 20em;
+    width: 30em;
+}
+
+
+#form {
+    position: absolute;
+    width: 32em;
+    height: 43em;
+    background-color: rgba(217, 217, 217, 1);
+    border-radius: 2em;
+    margin-left: 90em;
+    margin-top: -28em;
+}
+
+#titulo-2 {
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(70, 55, 128, 1);
+    font-size: 2em;
+    font-weight: 900;
+    margin-left: 1em;
+}
+
+#txt-7 {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(70, 55, 128, 1);
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-left: 1.7em;
+    margin-top: -1em;
+    display: flex;
+
+}
+
+#nome {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(70, 55, 128, 1);
+    font-size: 1em;
+    font-weight: 500;
+    margin-left: 2em;
+    margin-top: 2em;
+    display: flex;
+}
+
+#input-nome {
+    background-color: rgba(147, 147, 147, 0.3);
+    border: none;
+    margin-left: 2em;
+    border-radius: 1em;
+    width: 32em;
+    height: 2em;
+}
+
+
+#E-mail {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(70, 55, 128, 1);
+    font-size: 1em;
+    font-weight: 500;
+    margin-left: 2em;
+    margin-top: 2em;
+    display: flex;
+}
+
+#input-email {
+    background-color: rgba(147, 147, 147, 0.3);
+    border: none;
+    margin-left: 2em;
+    border-radius: 1em;
+    width: 32em;
+    height: 2em;
+}
+
+#celular {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(70, 55, 128, 1);
+    font-size: 1em;
+    font-weight: 500;
+    margin-left: 2em;
+    margin-top: 2em;
+    display: flex;
+}
+
+
+#input-celular {
+    background-color: rgba(147, 147, 147, 0.3);
+    border: none;
+    margin-left: 2em;
+    border-radius: 1em;
+    width: 12em;
+    height: 2em;
+}
+
+
+
+#empresa {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(70, 55, 128, 1);
+    font-size: 1em;
+    font-weight: 500;
+    margin-left: 14em;
+    margin-top: -4em;
+    display: flex;
+}
+
+#input-empresa {
+    background-color: rgba(147, 147, 147, 0.3);
+    border: none;
+    margin-left: 17em;
+    border-radius: 1em;
+    width: 19em;
+    height: 2em;
+}
+
+#mensagem {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(70, 55, 128, 1);
+    font-size: 1em;
+    font-weight: 500;
+    margin-left: 2em;
+    margin-top: 2em;
+    display: flex;
+}
+
+#input-mensagem {
+    background-color: rgba(147, 147, 147, 0.3);
+    border: none;
+    margin-left: 2em;
+    border-radius: 1em;
+    width: 32em;
+    height: 10em;
+}
+
+#enviar {
+   background-color: rgba(70, 55, 128, 1);
+   color: white;
+   text-align: center;
+   border-radius: 0.5em;
+   width: 10em;
+   height: 3em;
+   margin-top: 1.5em;
+   margin-left: 14em;
+}
+
+footer {
+    width: 30em;   
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 30em;
+    margin-left: 55em;
+}
+
+
+
+
+
+
+@media screen and (max-width: 2033px) {
+
+
+        body {
+            background-color: black;
+        }
+        
+        #logo {
+            margin-left: 43%;
+        }
+        
+        #titulo {
+            color: white;
+            text-align: center;
+            font-size: 3em;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+        }
+        
+        #txt-1 {
+            color: white;
+            font-family: 'Inter', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+        }
+        
+        #span-1{
+          background-color: rgba(70, 55, 128, 1);
+        
+        }
+        
+        #div-1 {
+            width: 80em;
+            height: 10em;
+            margin-left: 19em;
+        }
+        
+        
+        
+        #txt-2 {
+            display: flex;
+            color: rgba(162, 127, 85, 1);
+            font-family: 'Inter', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            font-size: 2em;
+            margin-left: 7em;
+            margin-top: 3em;
+            height: 1em;
+            width: 20em;
+        }
+        
+        #txt-3 {
+            margin-top: -2em;
+            display: flex;
+            font-family: 'Inter', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            color: white;
+            margin-top: -0.5em;
+            margin-left: 14em;
+            width: 30em;
+        }
+        
+        #txt-4 {
+            display: flex;
+            color: rgba(162, 127, 85, 1);
+            font-family: 'Inter', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            font-size: 2em;
+            margin-left: 7em;
+            margin-top: 2em;
+            height: 1em;
+            width: 20em;
+        }
+        
+        #txt-5 {
+            margin-top: -2em;
+            display: flex;
+            font-family: 'Inter', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            color: white;
+            margin-top: -0.5em;
+            margin-left: 14em;
+            width: 30em;
+        
+        }
+        
+        #txt-6 {
+            display: flex;
+            font-family: 'Inter', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            color: white;
+            margin-top: -0.5em;
+            margin-left: 14em;
+            width: 30em;
+        }
+        
+        
+        #form {
+            position: absolute;
+            width: 32em;
+            height: 43em;
+            background-color: rgba(217, 217, 217, 1);
+            border-radius: 2em;
+            margin-left: 70em;
+            margin-top: -28em;
+        }
+        
+        #titulo-2 {
+            display: flex;
+            font-family: 'Montserrat', sans-serif;
+            color: rgba(70, 55, 128, 1);
+            font-size: 2em;
+            font-weight: 900;
+            margin-left: 1em;
+        }
+        
+        #txt-7 {
+            font-family: 'Montserrat', sans-serif;
+            color: rgba(70, 55, 128, 1);
+            font-size: 1.2em;
+            font-weight: 700;
+            margin-left: 1.7em;
+            margin-top: -1em;
+            display: flex;
+        
+        }
+        
+        #nome {
+            font-family: 'Montserrat', sans-serif;
+            color: rgba(70, 55, 128, 1);
+            font-size: 1em;
+            font-weight: 500;
+            margin-left: 2em;
+            margin-top: 2em;
+            display: flex;
+        }
+        
+        #input-nome {
+            background-color: rgba(147, 147, 147, 0.3);
+            border: none;
+            margin-left: 2em;
+            border-radius: 1em;
+            width: 32em;
+            height: 2em;
+        }
+        
+        
+        #E-mail {
+            font-family: 'Montserrat', sans-serif;
+            color: rgba(70, 55, 128, 1);
+            font-size: 1em;
+            font-weight: 500;
+            margin-left: 2em;
+            margin-top: 2em;
+            display: flex;
+        }
+        
+        #input-email {
+            background-color: rgba(147, 147, 147, 0.3);
+            border: none;
+            margin-left: 2em;
+            border-radius: 1em;
+            width: 32em;
+            height: 2em;
+        }
+        
+        #celular {
+            font-family: 'Montserrat', sans-serif;
+            color: rgba(70, 55, 128, 1);
+            font-size: 1em;
+            font-weight: 500;
+            margin-left: 2em;
+            margin-top: 2em;
+            display: flex;
+        }
+        
+        
+        #input-celular {
+            background-color: rgba(147, 147, 147, 0.3);
+            border: none;
+            margin-left: 2em;
+            border-radius: 1em;
+            width: 12em;
+            height: 2em;
+        }
+        
+        
+        
+        #empresa {
+            font-family: 'Montserrat', sans-serif;
+            color: rgba(70, 55, 128, 1);
+            font-size: 1em;
+            font-weight: 500;
+            margin-left: 14em;
+            margin-top: -4em;
+            display: flex;
+        }
+        
+        #input-empresa {
+            background-color: rgba(147, 147, 147, 0.3);
+            border: none;
+            margin-left: 17em;
+            border-radius: 1em;
+            width: 19em;
+            height: 2em;
+        }
+        
+        #mensagem {
+            font-family: 'Montserrat', sans-serif;
+            color: rgba(70, 55, 128, 1);
+            font-size: 1em;
+            font-weight: 500;
+            margin-left: 2em;
+            margin-top: 2em;
+            display: flex;
+        }
+        
+        #input-mensagem {
+            background-color: rgba(147, 147, 147, 0.3);
+            border: none;
+            margin-left: 2em;
+            border-radius: 1em;
+            width: 32em;
+            height: 10em;
+        }
+        
+        #enviar {
+           background-color: rgba(70, 55, 128, 1);
+           color: white;
+           text-align: center;
+           border-radius: 0.5em;
+           width: 10em;
+           height: 3em;
+           margin-top: 1.5em;
+           margin-left: 14em;
+        }
+        
+        footer {
+            width: 30em;   
+            color: white;
+            font-family: 'Inter', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            margin-top: 30em;
+            margin-left: 45em;
+        }
+
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1691px) {
+
+    body {
+        background-color: black;
+    }
+    
+    #logo {
+        margin-left: 43%;
+    }
+    
+    #titulo {
+        color: white;
+        text-align: center;
+        font-size: 2em;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+    }
+    
+    #txt-1 {
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+    }
+    
+    #span-1{
+      background-color: rgba(70, 55, 128, 1);
+    
+    }
+    
+    #div-1 {
+        width: 80em;
+        height: 10em;
+        margin-left: 10em;
+    }
+    
+    
+    
+    #txt-2 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        margin-left: 5em;
+        margin-top: 3em;
+        height: 1em;
+        width: 20em;
+    }
+    
+    #txt-3 {
+        margin-top: -2em;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 7.5em;
+        width: 30em;
+    }
+    
+    #txt-4 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        margin-left: 5em;
+        margin-top: 2em;
+        height: 1em;
+        width: 20em;
+    }
+    
+    #txt-5 {
+        margin-top: -2em;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 7.5em;
+        width: 30em;
+    
+    }
+    
+    #txt-6 {
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 7.5em;
+        width: 30em;
+    }
+    
+    
+    #form {
+        position: absolute;
+        width: 30em;
+        height: 41em;
+        background-color: rgba(217, 217, 217, 1);
+        border-radius: 2em;
+        margin-left: 60em;
+        margin-top: -28em;
+    }
+    
+    #titulo-2 {
+        display: flex;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1.5em;
+        font-weight: 900;
+        margin-left: 1em;
+    }
+    
+    #txt-7 {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1em;
+        font-weight: 700;
+        margin-left: 1.7em;
+        margin-top: -1em;
+        display: flex;
+    
+    }
+    
+    #nome {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-nome {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 2em;
+    }
+    
+    
+    #E-mail {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-email {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 2em;
+    }
+    
+    #celular {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    
+    #input-celular {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 10em;
+        height: 2em;
+    }
+    
+    
+    
+    #empresa {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 15em;
+        margin-top: -4em;
+        display: flex;
+    }
+    
+    #input-empresa {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 15em;
+        border-radius: 1em;
+        width: 14em;
+        height: 2em;
+    }
+    
+    #mensagem {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-mensagem {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 32em;
+        height: 10em;
+    }
+    
+    #enviar {
+       background-color: rgba(70, 55, 128, 1);
+       color: white;
+       text-align: center;
+       border-radius: 0.5em;
+       width: 8em;
+       height: 3em;
+       margin-top: 1.5em;
+       margin-left: 14em;
+    }
+    
+    footer {
+        width: 30em;   
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 30em;
+        margin-left: 45em;
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 1485px) {
+
+    body {
+        background-color: black;
+    }
+    
+    #logo {
+        margin-left: 43%;
+    }
+    
+    #titulo {
+        color: white;
+        text-align: center;
+        font-size: 2em;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+    }
+    
+    #txt-1 {
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+    }
+    
+    #span-1{
+      background-color: rgba(70, 55, 128, 1);
+    
+    }
+    
+    #div-1 {
+        width: 80em;
+        height: 10em;
+        margin-left: 4em;
+    }
+    
+    
+    
+    #txt-2 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        margin-left: 5em;
+        margin-top: 3em;
+        height: 1em;
+        width: 20em;
+    }
+    
+    #txt-3 {
+        margin-top: -2em;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 7.5em;
+        width: 30em;
+    }
+    
+    #txt-4 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        margin-left: 5em;
+        margin-top: 2em;
+        height: 1em;
+        width: 20em;
+    }
+    
+    #txt-5 {
+        margin-top: -2em;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 7.5em;
+        width: 30em;
+    
+    }
+    
+    #txt-6 {
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 7.5em;
+        width: 30em;
+    }
+    
+    
+    #form {
+        position: absolute;
+        width: 30em;
+        height: 41em;
+        background-color: rgba(217, 217, 217, 1);
+        border-radius: 2em;
+        margin-left: 50em;
+        margin-top: -28em;
+    }
+    
+    #titulo-2 {
+        display: flex;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1.5em;
+        font-weight: 900;
+        margin-left: 1em;
+    }
+    
+    #txt-7 {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1em;
+        font-weight: 700;
+        margin-left: 1.7em;
+        margin-top: -1em;
+        display: flex;
+    
+    }
+    
+    #nome {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-nome {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 2em;
+    }
+    
+    
+    #E-mail {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-email {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 2em;
+    }
+    
+    #celular {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    
+    #input-celular {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 10em;
+        height: 2em;
+    }
+    
+    
+    
+    #empresa {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 15em;
+        margin-top: -4em;
+        display: flex;
+    }
+    
+    #input-empresa {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 15em;
+        border-radius: 1em;
+        width: 14em;
+        height: 2em;
+    }
+    
+    #mensagem {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-mensagem {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 32em;
+        height: 10em;
+    }
+    
+    #enviar {
+       background-color: rgba(70, 55, 128, 1);
+       color: white;
+       text-align: center;
+       border-radius: 0.5em;
+       width: 8em;
+       height: 3em;
+       margin-top: 1.5em;
+       margin-left: 14em;
+    }
+    
+    footer {
+        width: 30em;   
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 30em;
+        margin-left: 45em;
+    }
+
+
+}
+
+
+
+
+@media screen and (max-width: 1269px) {
+
+    body {
+        background-color: black;
+    }
+    
+    #logo {
+        margin-left: 43%;
+    }
+    
+    #titulo {
+        color: white;
+        text-align: center;
+        font-size: 2em;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+    }
+    
+    #txt-1 {
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+    }
+    
+    #span-1{
+      background-color: rgba(70, 55, 128, 1);
+    
+    }
+    
+    #div-1 {
+        width: 60em;
+        height: 10em;
+        margin-left: 6em;
+ 
+    }
+    
+    
+    
+    #txt-2 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        margin-left: 5em;
+        margin-top: 3em;
+        height: 1em;
+        width: 20em;
+    }
+    
+    #txt-3 {
+        margin-top: -2em;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 7.5em;
+        width: 30em;
+    }
+    
+    #txt-4 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        margin-left: 5em;
+        margin-top: 2em;
+        height: 1em;
+        width: 20em;
+    }
+    
+    #txt-5 {
+        margin-top: -2em;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 7.5em;
+        width: 30em;
+    
+    }
+    
+    #txt-6 {
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 7.5em;
+        width: 30em;
+    }
+    
+    
+    #form {
+        position: absolute;
+        width: 30em;
+        height: 41em;
+        background-color: rgba(217, 217, 217, 1);
+        border-radius: 2em;
+        margin-left: 40em;
+        margin-top: -28em;
+    }
+    
+    #titulo-2 {
+        display: flex;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1.5em;
+        font-weight: 900;
+        margin-left: 1em;
+    }
+    
+    #txt-7 {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1em;
+        font-weight: 700;
+        margin-left: 1.7em;
+        margin-top: -1em;
+        display: flex;
+    
+    }
+    
+    #nome {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-nome {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 2em;
+    }
+    
+    
+    #E-mail {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-email {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 2em;
+    }
+    
+    #celular {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    
+    #input-celular {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 10em;
+        height: 2em;
+    }
+    
+    
+    
+    #empresa {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 15em;
+        margin-top: -4em;
+        display: flex;
+    }
+    
+    #input-empresa {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 15em;
+        border-radius: 1em;
+        width: 14em;
+        height: 2em;
+    }
+    
+    #mensagem {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-mensagem {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 32em;
+        height: 10em;
+    }
+    
+    #enviar {
+       background-color: rgba(70, 55, 128, 1);
+       color: white;
+       text-align: center;
+       border-radius: 0.5em;
+       width: 8em;
+       height: 3em;
+       margin-top: 1.5em;
+       margin-left: 14em;
+    }
+    
+    footer {
+        width: 30em;   
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 30em;
+        margin-left: 45em;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 987px) {
+
+    body {
+        background-color: black;
+    }
+    
+    #logo {
+        margin-left: 43%;
+    }
+    
+    #titulo {
+        color: white;
+        text-align: center;
+        font-size: 1em;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+    }
+    
+    #txt-1 {
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        font-size: 0.8em;
+    }
+    
+    #span-1{
+      background-color: rgba(70, 55, 128, 1);
+    
+    }
+    
+    #div-1 {
+        width: 60em;
+        height: 10em;
+        margin-left: 2em;
+ 
+    }
+    
+    
+    
+    #txt-2 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1em;
+        margin-left: 5em;
+        margin-top: 3em;
+        height: 1em;
+        width: 20em;
+    }
+    
+    #txt-3 {
+      
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 6.2em;
+        width: 30em;
+        font-size: 0.8em;
+    }
+    
+    #txt-4 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1em;
+        margin-left: 5em;
+        margin-top: 2em;
+        height: 1em;
+        width: 20em;
+    }
+    
+    #txt-5 {
+        margin-top: -2em;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 6.2em;
+        width: 30em;
+        font-size: 0.8em;
+    
+    }
+    
+    #txt-6 {
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 6.2em;
+        width: 30em;
+        font-size: 0.8em;
+    }
+    
+    
+    #form {
+        position: absolute;
+        width: 20em;
+        height: 41em;
+        background-color: rgba(217, 217, 217, 1);
+        border-radius: 2em;
+        margin-left: 35em;
+        margin-top: -20em;
+    }
+    
+    #titulo-2 {
+        display: flex;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1em;
+        font-weight: 900;
+        margin-left: 1em;
+    }
+    
+    #txt-7 {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 700;
+        margin-left: 1.7em;
+        margin-top: -1em;
+        display: flex;
+    
+    }
+    
+    #nome {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.7em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-nome {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 20em;
+        height: 2em;
+    }
+    
+    
+    #E-mail {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.7em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-email {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 20em;
+        height: 2em;
+    }
+    
+    #celular {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.7em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    
+    #input-celular {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 8em;
+        height: 2em;
+    }
+    
+    
+    
+    #empresa {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.7em;
+        font-weight: 500;
+        margin-left: 15em;
+        margin-top: -5.5em;
+        display: flex;
+    }
+    
+    #input-empresa {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 12em;
+        border-radius: 1em;
+        width: 10em;
+        height: 2em;
+    }
+    
+    #mensagem {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-mensagem {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 20em;
+        height: 10em;
+    }
+    
+    #enviar {
+       background-color: rgba(70, 55, 128, 1);
+       color: white;
+       text-align: center;
+       border-radius: 0.5em;
+       width: 8em;
+       height: 3em;
+       margin-top: 1.5em;
+       margin-left: 8em;
+    }
+    
+    footer {
+        width: 30em;   
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 30em;
+        margin-left: 20em;
+        font-size: 1em;
+    }
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 848px) {
+
+    body {
+        background-color: black;
+    }
+    
+    #logo {
+        margin-left: 40%;
+    }
+    
+    #titulo {
+        color: white;
+        text-align: center;
+        font-size: 1.2em;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+    }
+    
+    #txt-1 {
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        font-size: 0.8em;
+    }
+    
+    #span-1{
+      background-color: rgba(70, 55, 128, 1);
+    
+    }
+    
+    #div-1 {
+        width: 40em;
+        height: 10em;
+        margin-left: 5em;
+ 
+    }
+    
+    
+    
+    #txt-2 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        margin-left: 10em;
+        margin-top:-2em;
+        height: 1em;
+        width: 20em;
+        text-align: center;
+    }
+
+    #txt-3 {
+      
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 12em;
+        width: 30em;
+        font-size: 1em;
+        text-align: center;
+    }
+    
+    #txt-4 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        margin-left: 12em;
+        margin-top: 2em;
+        height: 1em;
+        width: 20em;
+    }
+    
+    #txt-5 {
+        margin-top: -2em;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 12em;
+        width: 30em;
+        font-size: 1em;
+        text-align: center;
+    
+    }
+    
+    #txt-6 {
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 17em;
+        width: 30em;
+        font-size: 0.8em;
+        text-align: center;
+    }
+    
+    
+    #form {
+        position: absolute;
+        width: 35em;
+        height: 41em;
+        background-color: rgba(217, 217, 217, 1);
+        border-radius: 2em;
+        margin-left: 7em;
+        margin-top: 8em;
+    }
+    
+    #titulo-2 {
+        display: flex;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1.5em;
+        font-weight: 900;
+        margin-left: 5em;
+    }
+    
+    #txt-7 {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1em;
+        font-weight: 700;
+        margin-left: 8em;
+        margin-top: -1em;
+        display: flex;
+    
+    }
+    
+    #nome {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-nome {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 2em;
+    }
+    
+    
+    #E-mail {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-email {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 2em;
+    }
+    
+    #celular {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    
+    #input-celular {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 13em;
+        height: 2em;
+    }
+    
+    
+    
+    #empresa {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 17em;
+        margin-top: -4.5em;
+        display: flex;
+    }
+    
+    #input-empresa {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 16em;
+        border-radius: 1em;
+        width: 16em;
+        height: 2em;
+    }
+    
+    #mensagem {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-mensagem {
+        display: flex;
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 10em;
+      
+    }
+    
+    #enviar {
+       background-color: rgba(70, 55, 128, 1);
+       color: white;
+       text-align: center;
+       border-radius: 0.5em;
+       width: 8em;
+       height: 3em;
+       margin-top: 4em;
+       margin-left: 15em;
+    }
+
+
+
+    
+    footer {
+        width: 30em;   
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 60em;
+        margin-left: 15em;
+        font-size: 1em;
+    }
+
+
+}
+
+
+
+
+@media screen and (max-width: 527px) {
+
+    body {
+        background-color: black;
+    }
+    
+    #logo {
+        margin-left: 20em;
+    }
+    
+    #titulo {
+        color: white;
+        text-align: center;
+        font-size: 1.2em;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 700;
+    }
+    
+    #txt-1 {
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        font-size: 0.8em;
+    }
+    
+    #span-1{
+      background-color: rgba(70, 55, 128, 1);
+    
+    }
+    
+    #div-1 {
+        width: 40em;
+        height: 10em;
+        margin-left: 5em;
+ 
+    }
+    
+    
+    
+    #txt-2 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        margin-left: 10em;
+        margin-top:-2em;
+        height: 1em;
+        width: 20em;
+        text-align: center;
+    }
+
+    #txt-3 {
+      
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 12em;
+        width: 30em;
+        font-size: 1em;
+        text-align: center;
+    }
+    
+    #txt-4 {
+        display: flex;
+        color: rgba(162, 127, 85, 1);
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        font-size: 1.5em;
+        margin-left: 12em;
+        margin-top: 2em;
+        height: 1em;
+        width: 20em;
+    }
+    
+    #txt-5 {
+        margin-top: -2em;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 12em;
+        width: 30em;
+        font-size: 1em;
+        text-align: center;
+    
+    }
+    
+    #txt-6 {
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        margin-top: -0.5em;
+        margin-left: 17em;
+        width: 30em;
+        font-size: 0.8em;
+        text-align: center;
+    }
+    
+    
+    #form {
+        position: absolute;
+        width: 35em;
+        height: 41em;
+        background-color: rgba(217, 217, 217, 1);
+        border-radius: 2em;
+        margin-left: 7em;
+        margin-top: 8em;
+    }
+    
+    #titulo-2 {
+        display: flex;
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1.5em;
+        font-weight: 900;
+        margin-left: 5em;
+    }
+    
+    #txt-7 {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 1em;
+        font-weight: 700;
+        margin-left: 8em;
+        margin-top: -1em;
+        display: flex;
+    
+    }
+    
+    #nome {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-nome {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 2em;
+    }
+    
+    
+    #E-mail {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-email {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 2em;
+    }
+    
+    #celular {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    
+    #input-celular {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 13em;
+        height: 2em;
+    }
+    
+    
+    
+    #empresa {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 17em;
+        margin-top: -4.5em;
+        display: flex;
+    }
+    
+    #input-empresa {
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 16em;
+        border-radius: 1em;
+        width: 16em;
+        height: 2em;
+    }
+    
+    #mensagem {
+        font-family: 'Montserrat', sans-serif;
+        color: rgba(70, 55, 128, 1);
+        font-size: 0.8em;
+        font-weight: 500;
+        margin-left: 2em;
+        margin-top: 2em;
+        display: flex;
+    }
+    
+    #input-mensagem {
+        display: flex;
+        background-color: rgba(147, 147, 147, 0.3);
+        border: none;
+        margin-left: 2em;
+        border-radius: 1em;
+        width: 30em;
+        height: 10em;
+      
+    }
+    
+    #enviar {
+       background-color: rgba(70, 55, 128, 1);
+       color: white;
+       text-align: center;
+       border-radius: 0.5em;
+       width: 8em;
+       height: 3em;
+       margin-top: 4em;
+       margin-left: 15em;
+    }
+
+
+
+    
+    footer {
+        width: 30em;   
+        color: white;
+        font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 60em;
+        margin-left: 15em;
+        font-size: 1em;
+    }
+
+
+}
