@@ -1,0 +1,282 @@
+
+@media screen and (min-width: 1024px) {
+
+body {
+  background-color: black;
+}
+
+#txt-cabecalho {
+  font-family: 'Inter', sans-serif;
+  color: #A27F55;
+  font-size: 0.8em;
+  font-weight: 500;
+  margin-left: 80em;
+
+}
+
+
+
+#cabeçalho {
+  color: white;
+  display: flex;
+  list-style: none;
+  overflow: hidden;
+  gap: 5%;
+  margin-left: 70em;
+  margin-top: -6em;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8em;
+  font-weight: 500;
+}
+
+
+
+
+#btn-solicitar {
+  font-family: 'Inter', sans-serif;
+  background-color: rgba(70, 55, 128, 1);
+  color: white;
+  text-align: center;
+  border-radius: 0.5em;
+  width: 15em;
+  height: 2em;
+  font-weight: 500;
+  margin-left: 10em;
+  border-style: none;
+}
+
+#btn-enviar {
+  font-family: 'Inter', sans-serif;
+  background-color: #A27F55;
+  color: white;
+  border-radius: 0.5em;
+  width: 8em;
+  height: 2em;
+  font-weight: 500;
+  margin-left: 1em;
+  border-style: none;
+  text-align: center;
+}
+
+#titulo {
+  color: white;
+  margin-left: 30em;
+  margin-top: 4em;
+  font-family: 'Inter', sans-serif;
+  font-size: 2em;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+
+}
+
+#texto {
+  color: white;
+  font-family: 'Inter', sans-serif;
+  margin-top: 5em;
+  margin-left: 30%;
+}
+
+a {
+  color: #A27F55;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1023px) {
+
+  body {
+    background-color: black;
+  }
+  
+  #txt-cabecalho {
+    font-family: 'Inter', sans-serif;
+    color: #A27F55;
+    font-size: 0.6em;
+    font-weight: 500;
+    margin-left: 40em;
+  
+  }
+  
+  
+  
+  #cabeçalho {
+    color: white;
+    display: flex;
+    list-style: none;
+    overflow: hidden;
+    gap: 5%;
+    margin-left: 15em;
+    margin-top: -6em;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7em;
+    font-weight: 500;
+  }
+  
+  
+  
+  
+  #btn-solicitar {
+    font-family: 'Inter', sans-serif;
+    background-color: rgba(70, 55, 128, 1);
+    color: white;
+    text-align: center;
+    border-radius: 0.5em;
+    width: 13em;
+    height: 2em;
+    font-weight: 500;
+    margin-left: 10em;
+    border-style: none;
+  }
+  
+  #btn-enviar {
+    font-family: 'Inter', sans-serif;
+    background-color: #A27F55;
+    color: white;
+    border-radius: 0.5em;
+    width: 8em;
+    height: 2em;
+    font-weight: 500;
+    border-style: none;
+    text-align: center;
+  }
+  
+  #titulo {
+    color: white;
+    margin-left: 15em;
+    margin-top: 4em;
+    font-family: 'Inter', sans-serif;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+  
+  }
+  
+  #texto {
+    color: white;
+    font-family: 'Inter', sans-serif;
+    margin-top: 5em;
+    margin-left: 20%;
+    font-size: 0.8em;
+  }
+  
+  a {
+    color: #A27F55;
+  }
+  
+  }
+
+
+
+
+
+
+
+
+  
+
+
+
+@media screen and (max-width: 767px) {
+
+  body {
+    background-color: black;
+  }
+  
+  #txt-cabecalho {
+    font-family: 'Inter', sans-serif;
+    color: #A27F55;
+    font-size: 0.6em;
+    font-weight: 500;
+    margin-left: 40em;
+  
+  }
+  
+  
+  
+  #cabeçalho {
+    color: white;
+    display: flex;
+    list-style: none;
+    overflow: hidden;
+    gap: 5%;
+    margin-left: 15em;
+    margin-top: -6em;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7em;
+    font-weight: 500;
+  }
+  
+  
+  
+  
+  #btn-solicitar {
+    font-family: 'Inter', sans-serif;
+    background-color: rgba(70, 55, 128, 1);
+    color: white;
+    text-align: center;
+    border-radius: 0.5em;
+    width: 13em;
+    height: 2em;
+    font-weight: 500;
+    margin-left: 10em;
+    border-style: none;
+  }
+  
+  #btn-enviar {
+    font-family: 'Inter', sans-serif;
+    background-color: #A27F55;
+    color: white;
+    border-radius: 0.5em;
+    width: 8em;
+    height: 2em;
+    font-weight: 500;
+    border-style: none;
+    text-align: center;
+  }
+  
+  
+  #titulo {
+    color: white;
+    margin-left: 15em;
+    margin-top: 4em;
+    font-family: 'Inter', sans-serif;
+    font-size: 1.5em;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+  
+  }
+  
+  #texto {
+    color: white;
+    font-family: 'Inter', sans-serif;
+    margin-top: 5em;
+    margin-left: 20%;
+    font-size: 0.8em;
+  }
+  
+  a {
+    color: #A27F55;
+  }
+  
+  }
+
+
